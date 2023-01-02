@@ -1,4 +1,4 @@
-# Projeto de Transformação e Exploração de dados ( Amazon & Netflix )
+# Projeto de Transformação e Exploração de dados (Amazon & Netflix)
 
 
 Projeto foi desenvolvido para o teste challenge tech da codesh,
