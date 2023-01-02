@@ -24,3 +24,7 @@ Este projeto foi desenvolvido no Googlecolab, e foi preciso utilizar as seguinte
 ## Carga
 
 - Foi criado um repositório no Github para armazenar as informações do projeto
+
+## Link da apresentação 
+
+https://www.loom.com/embed/633d49db25bf4270b8346db84232d06c
